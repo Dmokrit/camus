@@ -1,8 +1,8 @@
 ---
-title: Welcome
 publish: true
+title: Quartz
+created: 2026-09-20T15:45:51.613Z
+modified: 2026-09-20T15:46:56.883Z
 ---
 
-Welcome to your Quartz site! This is your home page.
-
-Edit this note in Obsidian, then publish it with Quartz Syncer.
+hello this is a test
